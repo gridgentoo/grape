@@ -1,5 +1,4 @@
-# grape
-grape
+#  Framework для создания REST-подобных API в Ruby.
 
 ![grape logo](grape.png)
 
